@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Internet Connections.md",
+                "file": "Netwerken/Week 1/Module 1/Network Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "eb6e34a4a83999f1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Internet Connections.md",
+                "file": "Netwerken/Week 1/Module 1/Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Internet Connections.md",
+                "file": "Netwerken/Week 1/Module 1/Network Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,25 +120,7 @@
             }
           },
           {
-            "id": "f8d7209a3cc10fa8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Netwerken/Week 1/Module 1/Internet Connections.md"
-              }
-            }
-          },
-          {
-            "id": "7ac558e4699537c6",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f79ab733cbdf12f",
+            "id": "a55d22e3eeeeb8d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,11 +128,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +148,28 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7f79ab733cbdf12f",
+  "active": "a9264e457468297b",
   "lastOpenFiles": [
+    "Netwerken/Week 1/Module 1/Network Trends.md",
+    "Netwerken/Week 1/Module 1/Network Security.md",
+    "Images/Pasted image 20230531012331.png",
+    "Netwerken/Week 1/Module 1/Reliable Networks.md",
+    "Images/Pasted image 20230531012718.png",
+    "Images/Pasted image 20230531012012.png",
+    "Netwerken/Week 1/Module 1/Internet Connections.md",
+    "Images/Pasted image 20230531011150.png",
+    "Images/Pasted image 20230531010834.png",
+    "Images/Pasted image 20230531010740.png",
     "Notes-Year-one",
     "Images/Pasted image 20230531000450.png",
     "Netwerken/Week 1/Module 1/Common Types of Networks.md",
-    "Netwerken/Week 1/Module 1/Internet Connections.md",
     "LANs.md",
     "Images/Pasted image 20230530235856.png",
     "Netwerken/Week 1/Module 1/Network Representations and Topologies.md",
     "Images/Pasted image 20230530234632.png",
     "Netwerken/Week 1/Module 1/Network components.md",
     "Images/Pasted image 20230530223908.png",
-    "Images/Pasted image 20230530222042.png",
-    "Images/Pasted image 20230530220636.png",
     "Algemeen/Algemeen.md",
-    "Images/Pasted image 20230530220330.png",
     "Images",
     "Netwerken/Week 1/Module 1",
     "Netwerken/Week 1/Module 1.md",
