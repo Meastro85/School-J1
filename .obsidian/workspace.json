@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc4e939f364e3147",
+        "id": "ca3318c28b2880fc",
         "type": "tabs",
         "children": [
           {
-            "id": "a9264e457468297b",
+            "id": "54dcd5068e01e340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Network Security.md",
+                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Network Security.md",
+                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netwerken/Week 1/Module 1/Network Security.md",
+                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,24 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c04f3e0234b63d90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Netwerken/OSI Model/Physical/Wireless Media.md"
+              }
+            }
+          },
+          {
+            "id": "bb41a5ca9cd35a9b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -148,27 +166,44 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a9264e457468297b",
+  "active": "54dcd5068e01e340",
   "lastOpenFiles": [
-    "Netwerken/Week 1/Module 1/Network Trends.md",
-    "Netwerken/Week 1/Module 1/Network Security.md",
-    "Images/Pasted image 20230531012331.png",
-    "Netwerken/Week 1/Module 1/Reliable Networks.md",
-    "Images/Pasted image 20230531012718.png",
-    "Images/Pasted image 20230531012012.png",
-    "Netwerken/Week 1/Module 1/Internet Connections.md",
-    "Images/Pasted image 20230531011150.png",
-    "Images/Pasted image 20230531010834.png",
-    "Images/Pasted image 20230531010740.png",
-    "Notes-Year-one",
-    "Images/Pasted image 20230531000450.png",
-    "Netwerken/Week 1/Module 1/Common Types of Networks.md",
-    "LANs.md",
-    "Images/Pasted image 20230530235856.png",
-    "Netwerken/Week 1/Module 1/Network Representations and Topologies.md",
-    "Images/Pasted image 20230530234632.png",
+    "Netwerken/OSI Model/Physical/Fiber-Optic Cabling.md",
+    "Netwerken/OSI Model/Physical/Wireless Media.md",
+    "Images/Pasted image 20230601184808.png",
+    "Images/Pasted image 20230601184725.png",
+    "Images/Pasted image 20230601184657.png",
+    "Images/Pasted image 20230601183840.png",
+    "Images/Pasted image 20230601183807.png",
+    "Netwerken/OSI Model/Physical/UTP Cabling.md",
+    "Netwerken/Cable types.md",
+    "Images/Pasted image 20230601182825.png",
+    "Netwerken/OSI Model/Physical/Copper Cabling.md",
+    "Images/Pasted image 20230601164217.png",
+    "Images/Pasted image 20230601164034.png",
+    "Images/Pasted image 20230601163852.png",
     "Netwerken/Week 1/Module 1/Network components.md",
-    "Images/Pasted image 20230530223908.png",
+    "Netwerken/OSI Model/Physical/Physical Layer Characteristics.md",
+    "Images/Pasted image 20230601162342.png",
+    "Netwerken/OSI Model/Physical/Purpose of the Physical Layer.md",
+    "Netwerken/OSI Model/Datalink.md",
+    "Netwerken/NIC.md",
+    "Netwerken/OSI Model/Physical.md",
+    "Netwerken/Week 1/Module 1/Network Representations and Topologies.md",
+    "Netwerken/Week 1/Module 1/Internet Connections.md",
+    "Netwerken/Week 1/Module 1/Common Types of Networks.md",
+    "Netwerken/OSI Model/Physical",
+    "Netwerken/OSI Model/Network.md",
+    "Netwerken/OSI Model/Transport.md",
+    "Netwerken/OSI Model/Session.md",
+    "Netwerken/OSI Model/Presentation.md",
+    "Netwerken/OSI Model/Application.md",
+    "Netwerken/OSI Model",
+    "Netwerken/Week 1/Module 1/Network Security.md",
+    "Netwerken/Week 1/Module 1/Network Trends.md",
+    "Netwerken/Week 1/Module 1/Reliable Networks.md",
+    "Notes-Year-one",
+    "LANs.md",
     "Algemeen/Algemeen.md",
     "Images",
     "Netwerken/Week 1/Module 1",
