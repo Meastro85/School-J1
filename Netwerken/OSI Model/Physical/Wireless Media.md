@@ -5,7 +5,7 @@ Limitations:
 - Coverage area - Effective coverage can be impacted by physical characteristics of deployment location.
 - Interference - susceptible to interference
 - Security - Wireless communication coverage requires no access to physical strand of media.
-- Shared medium - WLANs operate in half-duplex, only one device can send or receive at a time. Many users accessing simultaneously results in reduced bandwidth for each user.
+- Shared medium - WLANs operate in [[Topologies#Half and Full Duplex Communication|half-duplex]], only one device can send or receive at a time. Many users accessing simultaneously results in reduced bandwidth for each user.
 
 # Types of Wireless Media
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
+                "file": "Netwerken/Week 1/Module 1/Network Trends.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
+                "file": "Netwerken/Week 1/Module 1/Network Trends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netwerken/OSI Model/Physical/Wireless Media.md",
+                "file": "Netwerken/Week 1/Module 1/Network Trends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netwerken/OSI Model/Physical/Wireless Media.md"
+                "file": "Netwerken/Week 1/Module 1/Network Trends.md"
               }
             }
           },
@@ -168,8 +168,30 @@
   },
   "active": "54dcd5068e01e340",
   "lastOpenFiles": [
+    "Netwerken/Week 1/Module 1/Network Security.md",
+    "Netwerken/Week 1/Module 1/Common Types of Networks.md",
+    "Netwerken/Week 1/Module 1/Network Representations and Topologies.md",
+    "Netwerken/Week 1/Module 1/Internet Connections.md",
+    "Netwerken/OSI Model/Data Link Layer/Topologies.md",
+    "Netwerken/OSI Model/Data Link Layer/Data Link Frame.md",
+    "Netwerken/OSI Model/Physical/Purpose of the Physical Layer.md",
+    "Netwerken/OSI Model/Physical/Physical Layer Characteristics.md",
     "Netwerken/OSI Model/Physical/Fiber-Optic Cabling.md",
+    "Netwerken/Te kennen.md",
+    "Images/Pasted image 20230601205440.png",
+    "Netwerken/OSI Model/Structure.md",
+    "Netwerken/DHCP.md",
+    "Netwerken/OSI Model/Transport.md",
+    "Netwerken/OSI Model/Application.md",
+    "Netwerken/OSI Model/Network.md",
+    "Netwerken/OSI Model/Datalink.md",
+    "Netwerken/OSI Model/Physical.md",
     "Netwerken/OSI Model/Physical/Wireless Media.md",
+    "Images/Pasted image 20230601194626.png",
+    "Netwerken/OSI Model/Data Link Layer/Purpose of the Data Link Layer.md",
+    "Images/Pasted image 20230601193826.png",
+    "Images/Pasted image 20230601193641.png",
+    "Netwerken/OSI Model/Data Link Layer",
     "Images/Pasted image 20230601184808.png",
     "Images/Pasted image 20230601184725.png",
     "Images/Pasted image 20230601184657.png",
@@ -179,35 +201,15 @@
     "Netwerken/Cable types.md",
     "Images/Pasted image 20230601182825.png",
     "Netwerken/OSI Model/Physical/Copper Cabling.md",
-    "Images/Pasted image 20230601164217.png",
-    "Images/Pasted image 20230601164034.png",
-    "Images/Pasted image 20230601163852.png",
     "Netwerken/Week 1/Module 1/Network components.md",
-    "Netwerken/OSI Model/Physical/Physical Layer Characteristics.md",
-    "Images/Pasted image 20230601162342.png",
-    "Netwerken/OSI Model/Physical/Purpose of the Physical Layer.md",
-    "Netwerken/OSI Model/Datalink.md",
     "Netwerken/NIC.md",
-    "Netwerken/OSI Model/Physical.md",
-    "Netwerken/Week 1/Module 1/Network Representations and Topologies.md",
-    "Netwerken/Week 1/Module 1/Internet Connections.md",
-    "Netwerken/Week 1/Module 1/Common Types of Networks.md",
     "Netwerken/OSI Model/Physical",
-    "Netwerken/OSI Model/Network.md",
-    "Netwerken/OSI Model/Transport.md",
     "Netwerken/OSI Model/Session.md",
     "Netwerken/OSI Model/Presentation.md",
-    "Netwerken/OSI Model/Application.md",
     "Netwerken/OSI Model",
-    "Netwerken/Week 1/Module 1/Network Security.md",
-    "Netwerken/Week 1/Module 1/Network Trends.md",
-    "Netwerken/Week 1/Module 1/Reliable Networks.md",
     "Notes-Year-one",
-    "LANs.md",
-    "Algemeen/Algemeen.md",
     "Images",
     "Netwerken/Week 1/Module 1",
-    "Netwerken/Week 1/Module 1.md",
     "Netwerken/Week 1",
     "Algemeen",
     "Netwerken"
